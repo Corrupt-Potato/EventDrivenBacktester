@@ -35,8 +35,8 @@ Supports fractional shares, end-of-bar logic, benchmark comparison, and plug-and
 
 1. **Clone** this repo  
    ```bash
-   git clone https://github.com/Corrupt-Potato/backtester.git
-   cd backtester
+   git clone https://github.com/Corrupt-Potato/EventDrivenBacktester.git
+   cd EventBacktester
    ```
 
 2. **Install** dependencies  
