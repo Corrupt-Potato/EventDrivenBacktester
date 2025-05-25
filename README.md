@@ -53,7 +53,7 @@ Supports fractional shares, end-of-bar logic, benchmark comparison, and plug-and
 
 Below is a sample daily rebalancing backtest (2017–2024) of an equal-weight strategy (AAPL, MSFT, GOOG, AMZN, NVDA, TSLA, META) vs. SPY benchmark.
 
-![Equity Curve](Figure_1.png)
+![Equity Curve](images/Figure_1.png)
 
 ---
 
